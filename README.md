@@ -46,24 +46,45 @@
 
 <br>
 <h2 align="center">🔥 Github Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <br>
 <div align=center>
   <a href="#" title="2vhoc">
     <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=2vhoc&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
-  <br>
+
+
+<h2 align="center">🔥 Github Stats 🔥</h2>
   <br>
   <a href="#" title="2vhoc">
     <img width="380" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vhoc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
+  <br>
+</div>
+<div align=center>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+  <a href="#" title="2vhoc">
+    <img width="380" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  </a>
+  <br>
+  <br>
+
+<h2 align="center">🔝 Top Contributed Repo 🔝</h2>
+
+<a href="#" title="2vhoc">
+    <img width="380" align="center" src="https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</a>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+
+
+
+
+
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
