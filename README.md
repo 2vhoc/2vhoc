@@ -67,7 +67,7 @@
 <div align=center>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
   <a href="#" title="2vhoc">
-    <img width="500" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+    <img width="600" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
   </a>
   <br>
   <br>
