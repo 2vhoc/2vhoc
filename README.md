@@ -46,15 +46,17 @@
 
 <br>
 <h2 align="center">🔥 Github Stats 🔥</h2>
-
 <br>
 <div align=center>
   <a href="#" title="2vhoc">
-    <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=2vhoc&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=2vhoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   </a>
-
-
-<h2 align="center">🔥 Github Stats 🔥</h2>
+  
+  <a>
+  <br>
+  <img align="center" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=2vhoc&theme=dark&hide_border=false" />
+  </a>
+<h2 align="center">X Languages X</h2>
   <br>
   <a href="#" title="2vhoc">
     <img width="380" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vhoc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -75,17 +77,6 @@
     <img width="380" align="center" src="https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
