@@ -58,7 +58,7 @@
 <h2 align="center">X Languages X</h2>
   <br>
   <a href="#" title="2vhoc">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vhoc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="380" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vhoc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <br>
 </div>
@@ -87,7 +87,7 @@
   <a href="https://www.instagram.com/_2vhoc7?igsh=Z3Z5dm11bDc0a25u&utm_source=qr" target="blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="2vhoc-instagram" />
   </a>
-  <a href="[https://www.linkedin.com/in/2vhoc](https://www.linkedin.com/in/2vhoc)" target="blank">
+  <a href="https://www.linkedin.com/in/2vhoc" target="blank">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="2vhoc-linkedin" />
   </a>
   <a href="https://instagram.com/trungquandev" target="blank">
