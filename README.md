@@ -87,7 +87,7 @@
   <a href="https://www.instagram.com/_2vhoc7?igsh=Z3Z5dm11bDc0a25u&utm_source=qr" target="blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="2vhoc-instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/h%E1%BB%8Dc-v%C5%A9-b63404321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
+  <a href="[https://www.linkedin.com/in/h%E1%BB%8Dc-v%C5%A9-b63404321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/2vhoc)" target="blank">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="2vhoc-linkedin" />
   </a>
   <a href="https://instagram.com/trungquandev" target="blank">
