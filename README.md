@@ -20,8 +20,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4DABE9" alt="numpy logo" title="Numpy" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=F29111" alt="mysql logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=FFFFFF" alt="django logo" title="Django" height="25" /></span>
@@ -35,8 +33,6 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=8511fa" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras logo" title="Keras" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch&logoColor=EE4C2C" alt="pytorch logo" title="Pytorch" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=5C3EE8" alt="opencv logo" title="OpenCV" height="25" /></span>
 &nbsp;
