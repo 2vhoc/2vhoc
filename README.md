@@ -86,7 +86,7 @@
   <a href="https://www.linkedin.com/in/2vhoc" target="blank">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="2vhoc-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="" target="blank">
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="2vhoc-telegram" />
   </a>
   <a href="mailto:2vhoc7@gmail.com" target="top">
