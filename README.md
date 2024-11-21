@@ -14,7 +14,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Javascript-333333?logo=javascript&logoColor=F7DF1E" alt="Javascript logo" title="Javascript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=FFFFFF" alt="tensorflow logo" title="TensorFlow" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=FFFFFF" alt="tensorflow logo" title="TensorFlow" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=FFB4E6" alt="pandas logo" title="Pandas" height="25" /></span>
 &nbsp;
