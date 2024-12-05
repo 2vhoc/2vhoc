@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="svg/2vhoc.svg" width="1200" alt="Vu Hoc" />
+  <img src="svg/2vhoc.svg" width="1200" alt="Vu Van Hoc" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
