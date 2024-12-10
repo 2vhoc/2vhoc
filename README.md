@@ -3,7 +3,7 @@
   <img src="svg/2vhoc.svg" width="1200" alt="Vu Van Hoc" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center"> Technologies and Tools </h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=#6296CC" alt="cplusplus logo" title="C++" height="25" /></span>
@@ -39,7 +39,7 @@
 <span><img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="selenium logo" title="Selenium" height="25" /></span>
 
 <br>
-<h2 align="center">🔥 Github Stats 🔥</h2>
+<h2 align="center"> Github Stats </h2>
 <br>
 <div align=center>
   <a href="#" title="2vhoc">
@@ -66,7 +66,7 @@
   <br>
   <br>
 
-<h2 align="center">🔝 Top Contributed Repo 🔝</h2>
+<h2 align="center"> Top Contributed Repo </h2>
 
 <a href="#" title="2vhoc">
     <img width="380" align="center" src="https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
