@@ -5,14 +5,29 @@
 <div>
 <br>
 <h1 align="center"> 『 🤖 About Me 🤖 』 </h1>
-</div>
-<div align="center">
 
+<div align="center">
 <br>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Researcher;Data+Scientist;Always+learning+new+algorithms)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
+</div>
+</div>
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+
+<div style="text-align: left; flex: 1; min-width: 150px; ">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="width: 100%; max-width: 100px;">
+</div>
+
+
+</div>
+
+
 
 ```python
 
@@ -39,52 +54,6 @@ Me = AIEngineer()
 Me.sayHi()
 ```
 
-<!-- 
-<h2 align="center">Technologies and Tools </h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<!--
-<span><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=#6296CC" alt="cplusplus logo" title="C++" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/C-00599C?logo=C&logoColor=FFFFFF" alt="c logo" title="C" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFF00" alt="python logo" title="Python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Javascript-333333?logo=javascript&logoColor=F7DF1E" alt="Javascript logo" title="Javascript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=FFFFFF" alt="tensorflow logo" title="TensorFlow" height="25" /></span>
-&nbsp;Fira Code
-<span><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=FFB4E6" alt="pandas logo" title="Pandas" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4DABE9" alt="numpy logo" title="Numpy" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=F29111" alt="mysql logo" title="MySQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=FFFFFF" alt="django logo" title="Django" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=FFFFFF" alt="github logo" title="Github" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=8511fa" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras logo" title="Keras" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/FastAPI-092E20?logo=FastAPi&logoColor=009688" alt="fast api logo" title="FastAPI" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=5C3EE8" alt="opencv logo" title="OpenCV" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/docker-092E20?logo=docker&logoColor=2496ED" alt="docker logo" title="Docker" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="selenium logo" title="Selenium" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=092E20" alt="linux logo" title="Linux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=092E20" alt="linux logo" title="Linux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Colab-092E20?logo=googlecolab&logoColor=F9AB00" alt="gg colab logo" title="Colab" height="25" /></span> -->
 
 
 
