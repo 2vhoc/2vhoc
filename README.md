@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="svg/2vhoc.svg" width="1200" alt="Vu Van Hoc" />
+  <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
 </a>
 <div>
 <br>
