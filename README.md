@@ -54,6 +54,7 @@ class AIEngineer:
 
 Me = AIEngineer()
 Me.sayHi()
+Me.getBody()
 ```
 
 
