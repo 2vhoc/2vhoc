@@ -24,20 +24,16 @@ class AIEngineer:
         self.languageSpoken = ["vi_VN", "en_US"]
         self.currentFocus = ["Deep Learning", "NLP", 
                              "Computer Vision", "GenAI"]
-        
-    def sayHi(self):
-        print("Turning data into insights and models into solutions!")
-
     def getTechStack(self):
         Language = ['C/C++', 'Python', 'JavaScript']
         Technologies = ['TensorFlow', 'Scikit-learn', 
                         'OpenCV', 'FastAPI']
-
         Tools = ['Docker', 'Linux/Ubuntu',
                  'Git', 'Colab/Kaggle', ]
-
         Cloud = ['AWS']
         return Language, Technologies, Tools, Cloud
+    def sayHi(self):
+        print("Turning data into insights and models into solutions!")
 
 Me = AIEngineer()
 Me.sayHi()
