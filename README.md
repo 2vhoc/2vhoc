@@ -30,14 +30,14 @@ class AIEngineer:
 
     def getTechStack(self):
         Language = ['C/C++', 'Python', 'JavaScript']
-        Language = ['TensorFlow', 'Scikit-learn', 
+        Technologies = ['TensorFlow', 'Scikit-learn', 
                         'OpenCV', 'FastAPI']
 
         Tools = ['Docker', 'Linux/Ubuntu',
                  'Git', 'Colab/Kaggle', ]
 
         Cloud = ['AWS']
-        return Language, Language, Tools, Cloud
+        return Language, Technologies, Tools, Cloud
 
 Me = AIEngineer()
 Me.sayHi()
