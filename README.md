@@ -21,7 +21,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
 <div style="text-align: left; flex: 1; min-width: 150px; ">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="width: 100%; max-width: 100px;">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="width: 20%; max-width: 100px;">
 </div>
 
 
