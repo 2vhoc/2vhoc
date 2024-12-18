@@ -9,9 +9,9 @@
 <div align="center">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Researcher;Data+Scientist;Always+learning+new+algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Researcher;Data+Scientist;Always+learning+new+algorithms)](https://git.io/typing-svg)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 </div>
 </div>
@@ -21,7 +21,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
 <div style="text-align: left; flex: 1; min-width: 150px; ">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="width: 20%; max-width: 100px;">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="width: 100%; max-width: 100px;">
 </div>
 
 
@@ -53,6 +53,29 @@ class AIEngineer:
 Me = AIEngineer()
 Me.sayHi()
 ```
+
+
+<h2 id="project-title" align="center">  『 Project 』 </h2>
+<div align="center>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=maroongold)](https://github.com/2vhoc/controller-finger-cv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=fastapi-project&theme=outrun)](https://github.com/2vhoc/fastapi-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=cobalt2)](https://github.com/2vhoc/detection-face-opencv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=ambient_gradient)](https://github.com/2vhoc/tensorflow-recognition-birds)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=outrun)](https://github.com/2vhoc/controller-finger-cv) -->
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -96,12 +119,15 @@ Me.sayHi()
 
 <br>
   <h1 align="center"> 『 🎵 Vibing to 』 </h1>
-<div align="center" color="ffffff" width="100%">
+<div align="center" color="#696969" width="100%">
   <br>
-<div style="background-color: #00FFFF; padding: 20px; display: inline-block; border-radius: 15px;width="100%;">
+<div style="background-color:rgb(32, 160, 177); padding: 20px; display: inline-block; border-radius: 15px;width="100%;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhmppomw43h7br6jgt3eqyti6q&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhmppomw43h7br6jgt3eqyti6q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00c792&interchange=true&bar_color=ef0b0b&bar_color_cover=true" width="90%" style="border-radius: 15px;">
   </a>
+  <p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="85%">
+</p>
 </div>
 
 
@@ -113,7 +139,7 @@ Me.sayHi()
 
 </div>
 <h2 align="center"> 『 👽 Where to find me 👽 』</h2>
-<br>
+
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=61551316765315&mibextid=LQQJ4d" target="blank">
@@ -131,6 +157,10 @@ Me.sayHi()
   <a href="mailto:2vhoc7@gmail.com" target="top">
     <img src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="2vhoc-email" />
   </a>
+  <br>
+  <a href="https://github.com/2vhoc/2vhoc.github.io/blob/main/images/IMG_1694.JPG">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+    </a>
 </div>
 <!-- Profile 3D Contrib -->
 
@@ -143,7 +173,6 @@ Me.sayHi()
 
 [![](https://visitcount.itsvg.in/api?id=2vhoc&icon=2&color=4)](https://visitcount.itsvg.in)
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
----
-
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
