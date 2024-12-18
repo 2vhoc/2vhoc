@@ -111,13 +111,13 @@ Me.getBody()
 
 <table>
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="200">
       
   <img src="https://media1.tenor.com/m/PdiBiXr7LFUAAAAd/slime-anime.gif" width="100" height="60"/>
       <br>Wife 1
     </td>
     <td align="center" width="200">
-      <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" width="100" height="100"/>
+      <img src="https://media1.tenor.com/m/p0kz7NOqxTkAAAAd/kaito-typing.gif" width="100" height="60">
       <br>Me =)))
     </td>
     <td align="center" width="200">
