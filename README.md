@@ -4,12 +4,15 @@
 </a>
 <div>
 <br>
-<h1 align="center"> 『 🤖 About Me 🤖 』 </h1>
+<h1 align="center"> 『  About Me  』 </h1>
 
 <div align="center">
 <br>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7A28F7&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8+AI+Engineer;%F0%9F%92%AB+Deep+Learning+Engineer;%F0%9F%94%AE+Data+Scientist;%F0%9F%8C%8C+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Researcher;Data+Scientist;Always+learning+new+algorithms)](https://git.io/typing-svg)
+<br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
@@ -79,7 +82,30 @@ Me.getBody()
 
 
 
+<div align="center">
+<h2>  『 Research Domains 』 </h2>
 
+<!-- <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,tensorflow,docker,git,fastapi" /><br> -->
+
+<!-- Tech Stack Table -->
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://media3.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="100" height="100"/>
+      <br>Deep Learning
+    </td>
+    <td align="center" width="200">
+      <img src="https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100" height="100"/>
+      <br>Neural Networks
+    </td>
+    <td align="center" width="200">
+      <img src="https://media2.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" height="100"/>
+      <br>Computer Vision
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
@@ -88,16 +114,18 @@ Me.getBody()
 
 <h2 align="center">  『 Github Stats 』 </h2>
 <br>
-<div align=center>
+<div align="center">
 <a href="#" title="2vhoc">
     <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=2vhoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   </a>
 
-  
+<br>
 
   
-
-  
+<h2 align="center">  『 Streaks 』 </h2>
+<div align="center" width="380">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2vhoc&theme=midnight-purple&hide_border=true&border_radius=10&background=0d1117&ring=7A28F7&fire=FF00FF&currStreakLabel=7A28F7" />
+</div>
 
 <h2 align="center"> 『 Languages 』</h2>
   <br>
@@ -107,14 +135,19 @@ Me.getBody()
   <br>
 </div>
 <div align=center>
-<h2 align="center"> 『 GitHub Trophies 』</h2>
+<!-- <h2 align="center"> 『 GitHub Trophies 』</h2>
+  <br> -->
+
+  <!-- <a href="#" title="2vhoc">
+    <img width="70%" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  </a> -->
+  <br>
   <br>
 
-  <a href="#" title="2vhoc">
-    <img width="70%" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-  </a>
-  <br>
-  <br>
+
+
+
+
 
 <h2 align="center">  『 Top Contributed Repo 』 </h2>
 <br>
@@ -122,6 +155,16 @@ Me.getBody()
     <img width="50%" align="center" src="https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </a>
 </div>
+
+<div align="center">
+<h2> 🔋 Power Metrics 🔋 </h2>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2vhoc&custom_title=Neural%20Activity%20Patterns&bg_color=0d1117&color=7A28F7&line=FF00FF&point=7A28F7&hide_border=true" width="100%"/>
+
+</div>
+
+
 
 <br>
   <h1 align="center"> 『 🎵 Vibing to 』 </h1>
@@ -138,6 +181,7 @@ Me.getBody()
 
 
 </a>
+
 
 
 
@@ -165,7 +209,7 @@ Me.getBody()
   </a>
   <br>
   <a href="https://github.com/2vhoc/2vhoc.github.io/blob/main/images/IMG_1694.JPG">
-        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+        <img src="https://img.buymeacoffee.com/button-api/?text=Donate for me=)))&emoji=&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
     </a>
 </div>
 <!-- Profile 3D Contrib -->
@@ -175,9 +219,11 @@ Me.getBody()
 </div>
 <br>
 
+<div align="center">
 
+![](https://count.getloli.com/get/@:2vhoc?theme=rule34)
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=2vhoc&icon=2&color=4)](https://visitcount.itsvg.in)
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
