@@ -19,6 +19,7 @@
 class AIEngineer:
     def __init__(self):
         self.name = "Vu Van Hoc"
+        self.studies = "Ha Noi Posts and Telecommunications Institute of Technology"
         self.role = "AI/ML/DL Engineer & Data Scientist"
         self.languageSpoken = ["vi_VN", "en_US"]
         self.currentFocus = ["Deep Learning", "NLP", 
