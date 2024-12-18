@@ -49,7 +49,7 @@ class AIEngineer:
         return Language, Technologies, Tools, Cloud
     def sayHi(self):
         print("Turning data into insights and models into solutions!")
-    def getBody():
+    def getBody(self):
         print("Đẹp chai s1 Tuyên Quang!!!")
 
 Me = AIEngineer()
