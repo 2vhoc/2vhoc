@@ -60,10 +60,11 @@ Me.sayHi()
 <h2 id="project-title" align="center">  『 Project 』 </h2>
 <div align="center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=maroongold)](https://github.com/2vhoc/controller-finger-cv)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=fastapi-project&theme=outrun)](https://github.com/2vhoc/fastapi-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=cobalt2)](https://github.com/2vhoc/detection-face-opencv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=ambient_gradient)](https://github.com/2vhoc/tensorflow-recognition-birds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=ambient_gradient)](https://github.com/2vhoc/controller-finger-cv)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=outrun)](https://github.com/2vhoc/controller-finger-cv) -->
 
 
