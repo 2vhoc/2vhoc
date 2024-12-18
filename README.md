@@ -36,7 +36,7 @@ class AIEngineer:
         self.name = "Vu Van Hoc"
         self.studies = "Ha Noi Posts and Telecommunications Institute of Technology"
         self.role = "AI/ML/DL Engineer & Data Scientist"
-        self.languageSpoken = ["vi_VN", "en_US"]
+        self.languageSpoken = ["Vietnamese", "English"]
         self.currentFocus = ["Deep Learning", "NLP", 
                              "Computer Vision", "GenAI"]
     def getTechStack(self):
