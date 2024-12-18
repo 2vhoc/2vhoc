@@ -108,6 +108,8 @@ Me.getBody()
 </div>
 <div align=center>
 <h2 align="center"> 『 GitHub Trophies 』</h2>
+  <br>
+
   <a href="#" title="2vhoc">
     <img width="70%" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
   </a>
@@ -115,7 +117,7 @@ Me.getBody()
   <br>
 
 <h2 align="center">  『 Top Contributed Repo 』 </h2>
-
+<br>
 <a href="#" title="2vhoc">
     <img width="50%" align="center" src="https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </a>
