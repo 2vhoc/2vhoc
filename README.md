@@ -88,15 +88,18 @@ Me.getBody()
 <!-- <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,tensorflow,docker,git,fastapi" /><br> -->
 
 <!-- Tech Stack Table -->
+
+
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://media3.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="100" height="100"/>
-      <br>Deep Learning
-    </td>
-    <td align="center" width="200">
       <img src="https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100" height="100"/>
       <br>Neural Networks
+    </td>
+    <td align="center" width="200">
+      <img src="https://media3.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" 
+      width="100" height="100"/>
+      <br>Deep Learning
     </td>
     <td align="center" width="200">
       <img src="https://media2.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" height="100"/>
@@ -104,6 +107,29 @@ Me.getBody()
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      
+  <img src="https://media1.tenor.com/m/PdiBiXr7LFUAAAAd/slime-anime.gif" width="100" height="60"/>
+      <br>Wife 1
+    </td>
+    <td align="center" width="200">
+      <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" width="100" height="100"/>
+      <br>Me =)))
+    </td>
+    <td align="center" width="200">
+      <img src="https://media1.tenor.com/m/ziJtzPQWyPEAAAAC/anime-violet.gif" width="100" height="60">
+      <br>Wife 2
+    </td>
+    
+  </tr>
+</table>
+
+</div>
+
 
 </div>
 
