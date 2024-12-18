@@ -135,7 +135,7 @@ Me.sayHi()
   <br>
 <div style="background-color: #f0f0f0; padding: 20px; display: inline-block; border-radius: 15px;width="100%;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhmppomw43h7br6jgt3eqyti6q&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhmppomw43h7br6jgt3eqyti6q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00c792&interchange=true&bar_color=ef0b0b&bar_color_cover=true" width="100%" style="border-radius: 15px;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhmppomw43h7br6jgt3eqyti6q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00c792&interchange=true&bar_color=ef0b0b&bar_color_cover=true" width="90%" style="border-radius: 15px;">
   </a>
 </div>
 
