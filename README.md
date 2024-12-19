@@ -63,7 +63,7 @@ Me.getBody()
 
 <h2 id="project-title" align="center">  『 Project 』 </h2>
 
-<div align="center" style="background-color:rgb(32, 160, 177); padding: 10%; display: inline-block; border-radius: 15px;width="100%;">
+<div align="center" style="background-color:rgb(32, 160, 177); padding: 10%; display: inline-block; border-radius: 15px;width="100%;" height="100%;">
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/2vhoc/roll-call-students" title="Roll Call Students"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -78,7 +78,7 @@ Me.getBody()
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=outrun)](https://github.com/2vhoc/controller-finger-cv) -->
-
+<br>
 
 </div>
 </div>
