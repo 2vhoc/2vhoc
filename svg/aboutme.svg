@@ -18,7 +18,7 @@
           text-align: center;
 
           transform: translateX(-100%);
-          animation: marquee 7s linear infinite, blink 1s step-start infinite;
+          animation: marquee 7s linear infinite, rainbow 2s linear infinite;
         }
 
         @keyframes marquee {
@@ -30,10 +30,14 @@
           }
         }
 
-        @keyframes blink {
-          0%   { color: #79A500; }
-          50%  { color: #FF6347; } /* Màu đỏ */
-          100% { color: #79A500; }
+        @keyframes rainbow {
+          0%   { color: #FF0000; } /* Đỏ */
+          15%  { color: #FF7F00; } /* Cam */
+          30%  { color: #FFFF00; } /* Vàng */
+          45%  { color: #00FF00; } /* Lục */
+          60%  { color: #0000FF; } /* Lam */
+          75%  { color: #4B0082; } /* Chàm */
+          100% { color: #8B00FF; } /* Tím */
         }
       </style>
       <div class="marquee">
