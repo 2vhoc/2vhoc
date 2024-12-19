@@ -18,7 +18,7 @@
           text-align: center;
 
           transform: translateX(-100%);
-          animation: marquee 7s linear infinite, rainbow 2s linear infinite;
+          animation: marquee 7s linear infinite, rainbow 5s linear infinite;
         }
 
         @keyframes marquee {
