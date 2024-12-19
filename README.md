@@ -239,6 +239,7 @@ Me.getBody()
 
 </a>
 <br>
+<div align="center">
 
   ```ascii
   Training Progress:
@@ -246,7 +247,7 @@ Me.getBody()
   Loss: 0.002908 | Accuracy: 99.98%
   Status: Ready for deployment 🚀
   ```
-
+</div>
 
 
 </div>
