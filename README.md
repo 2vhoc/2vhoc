@@ -138,28 +138,46 @@ Me.getBody()
 
 
 
-<h2 align="center">  『 Github Stats 』 </h2>
+<h2 align="center">  『 Github Stats and Contributor Stats 』 </h2>
 <br>
-<div align="center">
-<a href="#" title="2vhoc">
-    <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=2vhoc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  </a>
+<div align="center" style="width: 100%;">
+  <!-- Table trên cùng 1 hàng -->
+  <div style="margin: 10px auto;">
+    <table style="margin: auto;">
+      <tr>
+        <td style="padding: 10px;">
+          <img src="https://github-readme-stats.vercel.app/api?username=2vhoc&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=0d1117&title_color=7A28F7&icon_color=7A28F7&text_color=FFFFFF" style="width: auto; height: 100p;" />
+        </td>
+        <td style="padding: 10px;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=2vhoc&theme=midnight-purple&hide_border=true&border_radius=10&background=0d1117&ring=7A28F7&fire=FF00FF&currStreakLabel=7A28F7" style="width: auto; height: 100p;" />
+        </td>
+      </tr>
+    </table>
+  </div>
 
-<br>
+  <!-- Table dưới cùng 1 hàng -->
+  <div style="margin: 20px auto;">
+    <table style="margin: auto;">
+      <tr>
+        <td style="padding: 10px;">
+          <img src="https://media.tenor.com/pZ7D-VgpMdIAAAAM/anime-fofo.gif" style="width: 150px; height: auto;" />
+        </td>
+        <td style="padding: 10px;">
+          <a href="#" title="2vhoc">
+            <img src="https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 270; height: auto;" />
+          </a>
+        </td>
+        <td style="padding: 10px;">
+          <img src="https://media1.tenor.com/m/Cycnww7RHokAAAAd/suou-yuki-roshidere.gif" style="width: 150px; height: auto;" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
 
   
-<h2 align="center">  『 Streaks 』 </h2>
-<div align="center" width="380">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2vhoc&theme=midnight-purple&hide_border=true&border_radius=10&background=0d1117&ring=7A28F7&fire=FF00FF&currStreakLabel=7A28F7" />
-</div>
 
-<h2 align="center"> 『 Languages 』</h2>
-  <br>
-  <a href="#" title="2vhoc">
-    <img width="380" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vhoc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <br>
-</div>
 <div align=center>
 <!-- <h2 align="center"> 『 GitHub Trophies 』</h2>
   <br> -->
@@ -167,23 +185,12 @@ Me.getBody()
   <!-- <a href="#" title="2vhoc">
     <img width="70%" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
   </a> -->
-  <br>
-  <br>
 
-
-
-
-
-
-<h2 align="center">  『 Top Contributed Repo 』 </h2>
-<br>
-<a href="#" title="2vhoc">
-    <img width="50%" align="center" src="https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</a>
+ 
 </div>
 
 <div align="center">
-<h2> 🔋 Power Metrics 🔋 </h2>
+<h2>  『 🔋 Power Metrics 🔋 』</h2>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2vhoc&custom_title=Neural%20Activity%20Patterns&bg_color=0d1117&color=7A28F7&line=FF00FF&point=7A28F7&hide_border=true" width="100%"/>
@@ -207,10 +214,16 @@ Me.getBody()
 
 
 </a>
+<br>
+<div style="padding: 10px; display: inline-block; border-radius: 100%;width="auto;">
 
-
-
-
+  ```ascii
+  Training Progress:
+  Epoch [====================] 100%
+  Loss: 0.002908 | Accuracy: 99.98%
+  Status: Ready for deployment 🚀
+  ```
+</div>
 
 
 </div>
