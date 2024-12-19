@@ -1,3 +1,4 @@
+<div>
 <a href="#" target="_blank">
   <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
 </a>
@@ -56,7 +57,6 @@ Me.sayHi()
 Me.getBody()
 ```
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
-
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/project.svg" width="100%" height="100%">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 
@@ -93,7 +93,6 @@ Me.getBody()
 </div>
 
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/research.svg" width="100%" height="100%">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
@@ -152,6 +151,7 @@ Me.getBody()
 
 
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
+
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/gtct.svg" width="100%" height="100%">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 <div align="center" style="width: 100%;">
@@ -190,6 +190,7 @@ Me.getBody()
 </div>
 
   <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
+
 <div align=center>
 <!-- <h2 align="center"> 『 GitHub Trophies 』</h2>
   <br> -->
@@ -198,7 +199,6 @@ Me.getBody()
     <img width="70%" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
   </a> -->
 
-<br>
  
 </div>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/powermetrics.svg" width="100%" height="100%">
@@ -212,8 +212,8 @@ Me.getBody()
 </div>
 
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
-
-
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/vibingto.svg" width="100%" height="100%">
  <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 <div align="center" color="#ffffff" width="100%">
@@ -248,7 +248,7 @@ Me.getBody()
 </div>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
 
-<br><br><br>
+<br>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/findme.svg" style="max-width: 100%; height: auto;" alt="Find Me">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 
@@ -289,4 +289,5 @@ Me.getBody()
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 </div>
