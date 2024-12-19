@@ -4,18 +4,15 @@
 </a>
 <div>
 <br>
-<h1 align="center"> 『  About Me  』 </h1>
 
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/aboutme.svg">
 <div align="center">
-<br>
 <div align="center">
-  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7A28F7&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8+AI+Engineer;%F0%9F%92%AB+Deep+Learning+Engineer;%F0%9F%94%AE+Data+Scientist;%F0%9F%8C%8C+Machine+Learning+Engineer)]()
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 </div>
 </div>
 
@@ -59,9 +56,9 @@ Me = AIEngineer()
 Me.sayHi()
 Me.getBody()
 ```
+<img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
 
-
-<h2 id="project-title" align="center">  『 Project 』 </h2>
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/project.svg">
 <div>
 
 <div align="center" style="width: 100%;">
@@ -96,10 +93,10 @@ Me.getBody()
 
 
 
-
+<img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
 
 <div align="center">
-<h2>  『 Research Domains 』 </h2>
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/research.svg">
 
 <!-- <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,tensorflow,docker,git,fastapi" /><br> -->
 
@@ -152,9 +149,8 @@ Me.getBody()
 
 
 
-
-
-<h2 align="center">  『 Github Stats and Contributor Stats 』 </h2>
+ <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/gtct.svg">
 <br>
 <div align="center" style="width: 100%;">
   <!-- Table trên cùng 1 hàng -->
@@ -191,7 +187,7 @@ Me.getBody()
   </div>
 </div>
 
-
+<img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
   
 
 <div align=center>
@@ -204,19 +200,18 @@ Me.getBody()
 
  
 </div>
-
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/powermetrics.svg">
 <div align="center">
-<h2>  『 🔋 Power Metrics 🔋 』</h2>
+
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2vhoc&custom_title=Neural%20Activity%20Patterns&bg_color=0d1117&color=7A28F7&line=FF00FF&point=7A28F7&hide_border=true" width="100%"/>
 
 </div>
+ <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
 
 
-
-<br>
-  <h1 align="center"> 『 🎵 Vibing to 』 </h1>
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/vibingto.svg">
 <div align="center" color="#ffffff" width="100%">
   <br>
 <div style="background-color:rgb(32, 160, 177); padding: 20px; display: inline-block; border-radius: 15px;width="100%;">
@@ -240,10 +235,10 @@ Me.getBody()
   Status: Ready for deployment 🚀
   ```
 </div>
-
+<img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
 
 </div>
-<h2 align="center"> 『 👽 Where to find me 👽 』</h2>
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/findme.svg">
 
 <!-- https://icons8.com -->
 <div align="center">
