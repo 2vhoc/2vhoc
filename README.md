@@ -1,4 +1,3 @@
-
 <a href="#" target="_blank">
   <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
 </a>
@@ -56,9 +55,49 @@ Me = AIEngineer()
 Me.sayHi()
 Me.getBody()
 ```
-<img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
-
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50%" y="50%" width="50%" height="1" fill="purple">
+    <animate 
+      attributeName="x"
+      values="-50%; 50%; 100%; 50%; -50%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="50%" y="50%" width="50%" height="1" fill="orange">
+    <animate 
+      attributeName="x"
+      values="100%; 0%; -50%; 50%; 150%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect> 
+</svg>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/project.svg" width="100%">
+  <svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0044;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff0044; #ff8800;rgb(0, 225, 255); #00ff00; #0000ff; #ff0044"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ff8800;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff8800;rgb(0, 195, 255); #00ff00; #0000ff; #ff0044; #ff8800"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="100%" height="1" fill="url(#rainbow)"/>
+</svg>
+
 <div>
 
 <div align="center" style="width: 100%;">
@@ -93,10 +132,51 @@ Me.getBody()
 
 
 
-<img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
-
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50%" y="50%" width="50%" height="1" fill="purple">
+    <animate 
+      attributeName="x"
+      values="-50%; 50%; 100%; 50%; -50%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="50%" y="50%" width="50%" height="1" fill="orange">
+    <animate 
+      attributeName="x"
+      values="100%; 0%; -50%; 50%; 150%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect> 
+</svg>
 <div align="center">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/research.svg" width="100%">
+ <svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0044;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff0044; #ff8800;rgb(0, 225, 255); #00ff00; #0000ff; #ff0044"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ff8800;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff8800;rgb(0, 195, 255); #00ff00; #0000ff; #ff0044; #ff8800"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="100%" height="1" fill="url(#rainbow)"/>
+</svg>
+
+
 
 <!-- <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,tensorflow,docker,git,fastapi" /><br> -->
 
@@ -149,9 +229,47 @@ Me.getBody()
 
 
 
- <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
-<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/gtct.svg" width="100%">
-<br>
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50%" y="50%" width="50%" height="1" fill="purple">
+    <animate 
+      attributeName="x"
+      values="-50%; 50%; 100%; 50%; -50%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="50%" y="50%" width="50%" height="1" fill="orange">
+    <animate 
+      attributeName="x"
+      values="100%; 0%; -50%; 50%; 150%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect> 
+</svg><img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/gtct.svg" width="100%">
+ <svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0044;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff0044; #ff8800;rgb(0, 225, 255); #00ff00; #0000ff; #ff0044"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ff8800;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff8800;rgb(0, 195, 255); #00ff00; #0000ff; #ff0044; #ff8800"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="100%" height="1" fill="url(#rainbow)"/>
+</svg>
 <div align="center" style="width: 100%;">
   <!-- Table trên cùng 1 hàng -->
   <div style="margin: 10px auto;">
@@ -187,8 +305,28 @@ Me.getBody()
   </div>
 </div>
 
-<img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
-  
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50%" y="50%" width="50%" height="1" fill="purple">
+    <animate 
+      attributeName="x"
+      values="-50%; 50%; 100%; 50%; -50%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="50%" y="50%" width="50%" height="1" fill="orange">
+    <animate 
+      attributeName="x"
+      values="100%; 0%; -50%; 50%; 150%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect> 
+</svg>  
 
 <div align=center>
 <!-- <h2 align="center"> 『 GitHub Trophies 』</h2>
@@ -201,6 +339,25 @@ Me.getBody()
  
 </div>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/powermetrics.svg" width="100%">
+ <svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0044;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff0044; #ff8800;rgb(0, 225, 255); #00ff00; #0000ff; #ff0044"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ff8800;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff8800;rgb(0, 195, 255); #00ff00; #0000ff; #ff0044; #ff8800"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="100%" height="1" fill="url(#rainbow)"/>
+</svg>
 <div align="center">
 
 
@@ -208,10 +365,49 @@ Me.getBody()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2vhoc&custom_title=Neural%20Activity%20Patterns&bg_color=0d1117&color=7A28F7&line=FF00FF&point=7A28F7&hide_border=true" width="100%"/>
 
 </div>
- <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
-
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50%" y="50%" width="50%" height="1" fill="purple">
+    <animate 
+      attributeName="x"
+      values="-50%; 50%; 100%; 50%; -50%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="50%" y="50%" width="50%" height="1" fill="orange">
+    <animate 
+      attributeName="x"
+      values="100%; 0%; -50%; 50%; 150%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect> 
+</svg>
 
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/vibingto.svg" width="100%">
+ <svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0044;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff0044; #ff8800;rgb(0, 225, 255); #00ff00; #0000ff; #ff0044"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ff8800;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff8800;rgb(0, 195, 255); #00ff00; #0000ff; #ff0044; #ff8800"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="100%" height="1" fill="url(#rainbow)"/>
+</svg>
 <div align="center" color="#ffffff" width="100%">
   <br>
 <div style="background-color:rgb(32, 160, 177); padding: 20px; display: inline-block; border-radius: 15px;width="100%;">
@@ -240,11 +436,50 @@ Me.getBody()
   Status: Ready for deployment 🚀
   ```
 </div>
-<img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
-
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50%" y="50%" width="50%" height="1" fill="purple">
+    <animate 
+      attributeName="x"
+      values="-50%; 50%; 100%; 50%; -50%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect>
+  <rect x="50%" y="50%" width="50%" height="1" fill="orange">
+    <animate 
+      attributeName="x"
+      values="100%; 0%; -50%; 50%; 150%"
+      dur="4s"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1; 0.5 0 0.5 1"
+      calcMode="spline"
+      repeatCount="indefinite" />
+  </rect> 
+</svg>
 </div>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/findme.svg" width="100%">
 
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0044;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff0044; #ff8800;rgb(0, 225, 255); #00ff00; #0000ff; #ff0044"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ff8800;stop-opacity:1">
+        <animate attributeName="stop-color" 
+          values="#ff8800;rgb(0, 195, 255); #00ff00; #0000ff; #ff0044; #ff8800"
+          dur="5s" 
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="100%" height="2" fill="url(#rainbow)"/>
+</svg>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=61551316765315&mibextid=LQQJ4d" target="blank">
