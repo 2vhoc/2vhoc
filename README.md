@@ -88,7 +88,6 @@ Me.getBody()
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/tensorflow-recognition-birds" title="Recognition">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=shades-of-purple&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
-        
       </tr>
     </table>
   </div>
