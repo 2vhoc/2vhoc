@@ -243,11 +243,9 @@ Me.getBody()
 </div>
 
 </div>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/findme.svg" alt="Find Me" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" style="max-width: 100%; height: auto; margin: 10px;">
-</div>
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/findme.svg" style="max-width: 100%; height: auto;" alt="Find Me">
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 
 <!-- https://icons8.com -->
 <div align="center">
