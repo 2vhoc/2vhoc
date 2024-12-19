@@ -1,3 +1,4 @@
+
 <a href="#" target="_blank">
   <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
 </a>
@@ -227,11 +228,11 @@ Me.getBody()
 
 <br>
   <h1 align="center"> 『 🎵 Vibing to 』 </h1>
-<div align="center" color="#696969" width="100%">
+<div align="center" color="#ffffff" width="100%">
   <br>
 <div style="background-color:rgb(32, 160, 177); padding: 20px; display: inline-block; border-radius: 15px;width="100%;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhmppomw43h7br6jgt3eqyti6q&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhmppomw43h7br6jgt3eqyti6q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=696969&interchange=true&bar_color=ffffff&bar_color_cover=true" width="90%" style="border-radius: 15px;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhmppomw43h7br6jgt3eqyti6q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=#ffffff&interchange=true&bar_color=#ffffff&bar_color_cover=true" width="90%" style="border-radius: 15px;">
   </a>
   <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="84%">
