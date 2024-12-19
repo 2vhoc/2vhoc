@@ -1,4 +1,3 @@
-
 <a href="#" target="_blank">
   <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
 </a>
