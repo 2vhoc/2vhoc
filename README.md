@@ -58,7 +58,7 @@ Me.getBody()
 ```
 <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
 
-<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/project.svg">
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/project.svg" width="100%">
 <div>
 
 <div align="center" style="width: 100%;">
@@ -96,7 +96,7 @@ Me.getBody()
 <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/research.svg">
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/research.svg" width="100%">
 
 <!-- <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,tensorflow,docker,git,fastapi" /><br> -->
 
@@ -150,7 +150,7 @@ Me.getBody()
 
 
  <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
-<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/gtct.svg">
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/gtct.svg" width="100%">
 <br>
 <div align="center" style="width: 100%;">
   <!-- Table trên cùng 1 hàng -->
@@ -200,7 +200,7 @@ Me.getBody()
 
  
 </div>
-<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/powermetrics.svg">
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/powermetrics.svg" width="100%">
 <div align="center">
 
 
@@ -243,7 +243,7 @@ Me.getBody()
 <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
 
 </div>
-<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/findme.svg">
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/findme.svg" width="100%">
 
 <!-- https://icons8.com -->
 <div align="center">
