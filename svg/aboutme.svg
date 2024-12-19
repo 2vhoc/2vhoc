@@ -1,8 +1,48 @@
-<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="none"/>
-  <text x="-100%" y="50%" font-family="Comic Sans, Comic Sans MS, Chalkboard, ChalkboardSE-Regular, Marker Felt, Purisa, URW Chancery L, cursive, sans-serif" font-size="3em" text-anchor="middle" fill="black" dominant-baseline="middle">
-    ABOUT MEEEE
-    <animate attributeName="x" from="-100%" to="800" dur="7s" repeatCount="indefinite" />
-    <animate attributeName="fill" values="#FF0000;#FF7F00;#FFFF00;#00FF00;#0000FF;#4B0082;#8B00FF;#FF0000" dur="5s" repeatCount="indefinite" />
-  </text>
+<svg fill="none" viewBox="0 0 800 100" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="110%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        .marquee {
+          height: 100px;	
+          overflow: hidden;
+          position: relative;
+        }
+        .marquee strong {
+          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
+          position: absolute;
+          font-size: 3em;
+          width: 100%;
+          height: 100%;
+          margin: 0;
+          line-height: 100px;
+          text-align: center;
+
+          transform: translateX(-100%);
+          animation: marquee 7s linear infinite, rainbow 5s linear infinite;
+        }
+
+        @keyframes marquee {
+          0%   { 
+            transform: translateX(-100%); 		
+          }
+          100% { 
+            transform: translateX(80%); 
+          }
+        }
+
+        @keyframes rainbow {
+          0%   { color: #FF0000; } /* Đỏ */
+          15%  { color: #FF7F00; } /* Cam */
+          30%  { color: #FFFF00; } /* Vàng */
+          45%  { color: #00FF00; } /* Lục */
+          60%  { color: #0000FF; } /* Lam */
+          75%  { color: #4B0082; } /* Chàm */
+          100% { color: #8B00FF; } /* Tím */
+        }
+      </style>
+      <div class="marquee">
+        <strong> ABOUT MEEEE  </strong>
+      </div>
+		</div>
+	</foreignObject>
 </svg>
