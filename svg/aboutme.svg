@@ -9,7 +9,6 @@
         }
         .marquee strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: #79A500;
           position: absolute;
           font-size: 3em;
           width: 100%;
@@ -18,9 +17,8 @@
           line-height: 100px;
           text-align: center;
 
-          transform:translateX(100%);
-
-          animation: marquee 7s linear infinite;
+          transform: translateX(-100%);
+          animation: marquee 7s linear infinite, blink 1s step-start infinite;
         }
 
         @keyframes marquee {
@@ -30,6 +28,12 @@
           100% { 
             transform: translateX(80%); 
           }
+        }
+
+        @keyframes blink {
+          0%   { color: #79A500; }
+          50%  { color: #FF6347; } /* Màu đỏ */
+          100% { color: #79A500; }
         }
       </style>
       <div class="marquee">
