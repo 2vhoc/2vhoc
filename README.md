@@ -1,3 +1,4 @@
+
 <a href="#" target="_blank">
   <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
 </a>
@@ -9,7 +10,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7A28F7&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8+AI+Engineer;%F0%9F%92%AB+Deep+Learning+Engineer;%F0%9F%94%AE+Data+Scientist;%F0%9F%8C%8C+Machine+Learning+Engineer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000000000000000&color=7A28F7&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8+AI+Engineer/Data+Scientist)]()
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
