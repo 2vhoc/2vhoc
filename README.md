@@ -77,6 +77,11 @@ Me.getBody()
         <a href="https://github.com/2vhoc/detection-face-opencv" title="Detection Face">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=cobalt2&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
       </a>
+        </td>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
+      </a>
+        </td>
       </tr>
     </table>
     <table style="margin: auto;">
@@ -88,6 +93,9 @@ Me.getBody()
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/tensorflow-recognition-birds" title="Recognition">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=shades-of-purple&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+        </td>
+        <td style="padding: 10px;">
+        </td>
       </tr>
     </table>
   </div>
@@ -231,7 +239,6 @@ Me.getBody()
 
 </a>
 <br>
-<div style="padding: 10px; display: inline-block; border-radius: 100%;width="auto;">
 
   ```ascii
   Training Progress:
@@ -239,7 +246,7 @@ Me.getBody()
   Loss: 0.002908 | Accuracy: 99.98%
   Status: Ready for deployment 🚀
   ```
-</div>
+
 
 
 </div>
