@@ -64,11 +64,36 @@ Me.getBody()
 <h2 id="project-title" align="center">  『 Project 』 </h2>
 <div align="center>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/2vhoc/roll-call-students">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=outrun" alt="Roll Call Students">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/2vhoc/detection-face-opencv">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=cobalt2" alt="Detection Face OpenCV">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/2vhoc/tensorflow-recognition-birds">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=ambient_gradient" alt="TensorFlow Recognition Birds">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/2vhoc/controller-finger-cv">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=gruvbox" alt="Controller Finger CV">
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=outrun)](https://github.com/2vhoc/roll-call-students)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=cobalt2)](https://github.com/2vhoc/detection-face-opencv)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=ambient_gradient)](https://github.com/2vhoc/tensorflow-recognition-birds)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=gruvbox)](https://github.com/2vhoc/controller-finger-cv)
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=outrun)](https://github.com/2vhoc/controller-finger-cv) -->
 
 
@@ -267,3 +292,5 @@ Me.getBody()
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
+
+
