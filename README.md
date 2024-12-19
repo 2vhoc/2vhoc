@@ -1,4 +1,3 @@
-
 <a href="#" target="_blank">
   <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
 </a>
@@ -10,7 +9,7 @@
 <br>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7A28F7&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8+AI+Engineer;%F0%9F%92%AB+Deep+Learning+Engineer;%F0%9F%94%AE+Data+Scientist;%F0%9F%8C%8C+Machine+Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7A28F7&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8+AI+Engineer;%F0%9F%92%AB+Deep+Learning+Engineer;%F0%9F%94%AE+Data+Scientist;%F0%9F%8C%8C+Machine+Learning+Engineer)]()
 
 <br>
 <div align="center">
