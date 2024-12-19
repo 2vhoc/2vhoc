@@ -63,24 +63,31 @@ Me.getBody()
 
 <h2 id="project-title" align="center">  『 Project 』 </h2>
 
-<div align="center" style="background-color:rgb(32, 160, 177); padding: 10%; display: inline-block; border-radius: 15px;width="100%;" height="100%;">
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/2vhoc/roll-call-students" title="Roll Call Students"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/2vhoc/detection-face-opencv" title="Detection Face OpenCV"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=react&border_color=61dafb&border_radius=10"></a>
+<div style="background-color:rgb(32, 160, 177); padding: 5%; border-radius: 15px; width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="width: 48%;" align="center">
+    <a href="https://github.com/2vhoc/roll-call-students" title="Roll Call Students">
+      <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=react&border_color=61dafb&border_radius=10">
+    </a>
+  </div>
+  <div style="width: 48%;" align="center">
+    <a href="https://github.com/2vhoc/detection-face-opencv" title="Detection Face OpenCV">
+      <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=react&border_color=61dafb&border_radius=10">
+    </a>
+  </div>
+  <div style="width: 48%;" align="center">
+    <a href="https://github.com/2vhoc/tensorflow-recognition-birds" title="TensorFlow Recognition Birds">
+      <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=react&border_color=61dafb&border_radius=10">
+    </a>
+  </div>
+  <div style="width: 48%;" align="center">
+    <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
+      <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react&border_color=61dafb&border_radius=10">
+    </a>
+  </div>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/2vhoc/tensorflow-recognition-birds" title="TensorFlow Recognition Birds"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=outrun)](https://github.com/2vhoc/controller-finger-cv) -->
-<br>
 
-</div>
 </div>
 
 
