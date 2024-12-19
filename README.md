@@ -56,6 +56,8 @@ Me.sayHi()
 Me.getBody()
 ```
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
+
+<br>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/project.svg" width="100%" height="100%">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 
@@ -92,6 +94,8 @@ Me.getBody()
 </div>
 
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
+
+<br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/research.svg" width="100%" height="100%">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
@@ -151,6 +155,7 @@ Me.getBody()
 
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
 
+<br>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/gtct.svg" width="100%" height="100%">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 <div align="center" style="width: 100%;">
@@ -198,6 +203,7 @@ Me.getBody()
     <img width="70%" align="center" src="https://github-profile-trophy.vercel.app/?username=2vhoc&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
   </a> -->
 
+<br>
  
 </div>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/powermetrics.svg" width="100%" height="100%">
@@ -211,6 +217,9 @@ Me.getBody()
 </div>
 
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
+
+<br>
+
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/vibingto.svg" width="100%" height="100%">
  <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 <div align="center" color="#ffffff" width="100%">
@@ -244,6 +253,8 @@ Me.getBody()
 
 </div>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
+
+<br>
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/findme.svg" style="max-width: 100%; height: auto;" alt="Find Me">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 
