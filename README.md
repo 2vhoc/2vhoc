@@ -220,7 +220,12 @@ Me.getBody()
   </a>
   <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="84%">
+  <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/terminal.svg" width="84%">
+
 </p>
+
+
+
 </div>
 
 
