@@ -1,4 +1,3 @@
-
 <a href="#" target="_blank">
   <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
 </a>
@@ -172,7 +171,7 @@ Me.getBody()
         <td style="padding: 10px;">
           <img src="https://github-readme-stats.vercel.app/api?username=2vhoc&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=0d1117&title_color=7A28F7&icon_color=7A28F7&text_color=FFFFFF" style="width: auto; height: 100p;" />
         </td>
-        <td style="padding: 10px;">
+         <td style="padding: 10px;">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=2vhoc&theme=midnight-purple&hide_border=true&border_radius=10&background=0d1117&ring=7A28F7&fire=FF00FF&currStreakLabel=7A28F7" style="width: auto; height: 100p;" />
         </td>
       </tr>
