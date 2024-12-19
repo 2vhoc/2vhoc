@@ -74,13 +74,12 @@ Me.getBody()
       </a>
         </td>
         <td style="padding: 10px;">
-        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
+        <a href="https://github.com/2vhoc/detection-face-opencv" title="Detection Face">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=react&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
       </a>
         </td>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=react&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
       </a>
         </td>
       </tr>
@@ -92,16 +91,12 @@ Me.getBody()
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react& border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
       </a>
         </td>
-        <!-- <td style="padding: 10px;">
-        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react& border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
-      </a>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/tensorflow-recognition-birds" title="Recognition">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=react&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
         </td>
         <td style="padding: 10px;">
-        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react& border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
-      </a>
-        </td> -->
+        </td>
       </tr>
     </table>
   </div>
