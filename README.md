@@ -62,39 +62,54 @@ Me.getBody()
 
 
 <h2 id="project-title" align="center">  『 Project 』 </h2>
+<div>
 
-<div style="background-color:rgb(32, 160, 177); padding: 5%; border-radius: 15px; width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="width: 20%; max-width: 200px; align-items: center; text-align: center;">
-    <a href="https://github.com/2vhoc/roll-call-students" title="Roll Call Students">
-      <img style="width: 100%; height: auto; max-width: 180px;" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=react&border_color=61dafb&border_radius=10">
-    </a>
+<div align="center" style="width: 100%;">
+  <div style="margin: 10px auto;">
+    <table style="margin: auto;">
+      <tr>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/roll-call-students" title="Roll call students">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=react&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </a>
+        </td>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=react&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </a>
+        </td>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=react&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </a>
+        </td>
+      </tr>
+    </table>
+    <table style="margin: auto;">
+      <tr>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react& border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </a>
+        </td>
+        <!-- <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react& border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </a>
+        </td>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react& border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </a>
+        </td> -->
+      </tr>
+    </table>
   </div>
-  <div style="width: 20%; max-width: 200px; align-items: center; text-align: center;">
-    <a href="https://github.com/2vhoc/detection-face-opencv" title="Detection Face OpenCV">
-      <img style="width: 100%; height: auto; max-width: 180px;" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=react&border_color=61dafb&border_radius=10">
-    </a>
-  </div>
-  <div style="width: 20%; max-width: 200px; align-items: center; text-align: center;">
-    <a href="https://github.com/2vhoc/tensorflow-recognition-birds" title="TensorFlow Recognition Birds">
-      <img style="width: 100%; height: auto; max-width: 180px;" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=react&border_color=61dafb&border_radius=10">
-    </a>
-  </div>
-  <div style="width: 20%; max-width: 200px; align-items: center; text-align: center;">
-    <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller Finger CV">
-      <img style="width: 100%; height: auto; max-width: 180px;" src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=react&border_color=61dafb&border_radius=10">
-    </a>
-  </div>
+
 </div>
 
 
 
-</div>
-
-
-
-
-
-<br>
 
 
 <div align="center">
@@ -170,7 +185,7 @@ Me.getBody()
     </table>
   </div>
 
-  <!-- Table dưới cùng 1 hàng -->
+ 
   <div style="margin: 20px auto;">
     <table style="margin: auto;">
       <tr>
