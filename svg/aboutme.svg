@@ -1,9 +1,9 @@
 <svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="110%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
         .marquee {
-          height: 100px;	
+          height: 100px;
           overflow: hidden;
           position: relative;
         }
@@ -18,31 +18,32 @@
           text-align: center;
 
           transform: translateX(-100%);
-          animation: marquee 7s linear infinite, rainbow 5s linear infinite;
+          animation: marquee 10s linear infinite, rainbow 5s linear infinite;
         }
 
         @keyframes marquee {
           0%   { 
-            transform: translateX(-100%); 		
+            transform: translateX(-100%);       
           }
           100% { 
-            transform: translateX(80%); 
+            transform: translateX(100%); 
           }
         }
 
         @keyframes rainbow {
           0%   { color: #FF0000; } /* Đỏ */
-          15%  { color: #FF7F00; } /* Cam */
-          30%  { color: #FFFF00; } /* Vàng */
-          45%  { color: #00FF00; } /* Lục */
-          60%  { color: #0000FF; } /* Lam */
-          75%  { color: #4B0082; } /* Chàm */
-          100% { color: #8B00FF; } /* Tím */
+          14%  { color: #FF7F00; } /* Cam */
+          28%  { color: #FFFF00; } /* Vàng */
+          42%  { color: #00FF00; } /* Lục */
+          56%  { color: #0000FF; } /* Lam */
+          70%  { color: #4B0082; } /* Chàm */
+          84%  { color: #8B00FF; } /* Tím */
+          100% { color: #FF0000; } /* Đỏ */
         }
       </style>
       <div class="marquee">
         <strong> ABOUT MEEEE  </strong>
       </div>
-		</div>
-	</foreignObject>
+    </div>
+  </foreignObject>
 </svg>
