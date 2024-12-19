@@ -211,7 +211,7 @@ Me.getBody()
  <img src="https://media.tenor.com/LB9YkZffbLsAAAAj/innervoice-media.gif" width="100%" height="40"/>
 
 
-<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/vibingto.svg">
+<img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/vibingto.svg" width="100%">
 <div align="center" color="#ffffff" width="100%">
   <br>
 <div style="background-color:rgb(32, 160, 177); padding: 20px; display: inline-block; border-radius: 15px;width="100%;">
