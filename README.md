@@ -129,15 +129,15 @@ Me.getBody()
     <td align="center" width="200">
       
   <img src="https://media1.tenor.com/m/PdiBiXr7LFUAAAAd/slime-anime.gif" width="100" height="60"/>
-      <br>Wife 1
+      <br>
     </td>
     <td align="center" width="200">
       <img src="https://media1.tenor.com/m/p0kz7NOqxTkAAAAd/kaito-typing.gif" width="100" height="60">
-      <br>Me =)))
+      <br>
     </td>
     <td align="center" width="200">
       <img src="https://media1.tenor.com/m/ziJtzPQWyPEAAAAC/anime-violet.gif" width="100" height="60">
-      <br>Wife 2
+      <br>
     </td>
     
   </tr>
