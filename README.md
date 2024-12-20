@@ -128,15 +128,15 @@ Me.getBody()
   <tr>
     <td align="center" width="200">
       
-  <img src="https://media1.tenor.com/m/PdiBiXr7LFUAAAAd/slime-anime.gif" width="100" height="60"/>
+  <img src="https://media1.tenor.com/m/PdiBiXr7LFUAAAAd/slime-anime.gif" width="150" height="90"/>
       <br>
     </td>
     <td align="center" width="200">
-      <img src="https://media1.tenor.com/m/p0kz7NOqxTkAAAAd/kaito-typing.gif" width="100" height="60">
+      <img src="https://media1.tenor.com/m/p0kz7NOqxTkAAAAd/kaito-typing.gif" width="150" height="90">
       <br>
     </td>
     <td align="center" width="200">
-      <img src="https://media1.tenor.com/m/ziJtzPQWyPEAAAAC/anime-violet.gif" width="100" height="60">
+      <img src="https://media1.tenor.com/m/ziJtzPQWyPEAAAAC/anime-violet.gif" width="150" height="90">
       <br>
     </td>
     
