@@ -41,7 +41,7 @@ class AIEngineer:
                              "Computer Vision", "GenAI"]
     def getTechStack(self):
         Language = ['C/C++', 'Python', 'JavaScript']
-        Technologies = ['TensorFlow', 'Scikit-learn', 
+        Technologies = ['TensorFlow/Pytorch', 'Sklearn', 
                         'OpenCV', 'FastAPI']
         Tools = ['Docker', 'Linux/Ubuntu',
                  'Git', 'Colab/Kaggle', ]
