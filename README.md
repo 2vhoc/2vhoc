@@ -46,6 +46,7 @@ class AIEngineer:
         Tools = ['Docker', 'Linux/Ubuntu',
                  'Git', 'Colab/Kaggle', ]
         Cloud = ['AWS']
+        Others = ['VS Code', 'PyCharm', 'Intellij']
         return Language, Technologies, Tools, Cloud
     def sayHi(self):
         print("Turning data into insights and models into solutions!")
