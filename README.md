@@ -1,6 +1,6 @@
 <div>
 <a href="#" target="_blank">
-  <img src="svg/2vhoc.svg" width="1500" alt="Vu Van Hoc" />
+  <img src="svg/2vhoc.svg" width="100%" alt="Vu Van Hoc" />
 </a>
 <div>
 <br>
@@ -165,7 +165,9 @@ Me.getBody()
           <img src="https://github-readme-stats.vercel.app/api?username=2vhoc&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=0d1117&title_color=7A28F7&icon_color=7A28F7&text_color=FFFFFF" style="width: auto; height: auto;" />
         </td>
           <td style="padding: 10px;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vhoc&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" style="width: auto; height: auto;" />
+          <a href="#">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2vhoc&layout=donut&langs_count=8&card_width=200" style="width: auto; height: 200;"/>
+        </a>
         </td>
          <td style="padding: 10px;">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=2vhoc&theme=midnight-purple&hide_border=true&border_radius=10&background=0d1117&ring=7A28F7&fire=FF00FF&currStreakLabel=7A28F7" style="width: auto; height: 100p;" />
@@ -297,3 +299,4 @@ Me.getBody()
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 </div>
+
