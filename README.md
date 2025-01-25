@@ -82,11 +82,18 @@ Me.getBody()
       <tr>
       <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=calm_pink&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=aura&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
         </td>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/tensorflow-recognition-birds" title="Recognition">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=shades-of-purple&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=gruvbox&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </tr>
+    </table>
+    <table style="margin: auto;">
+      <tr>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/smoke-detection" title="smoke-detection">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=smoke-detection&theme=monokai&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
       </tr>
     </table>
   </div>
