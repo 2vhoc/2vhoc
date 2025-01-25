@@ -171,11 +171,6 @@ Me.getBody()
         <td style="padding: 10px;">
           <img src="https://github-readme-stats.vercel.app/api?username=2vhoc&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&bg_color=0d1117&title_color=7A28F7&icon_color=7A28F7&text_color=FFFFFF" style="width: auto; height: auto;" />
         </td>
-          <td style="padding: 10px;">
-          <a href="#">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2vhoc&layout=donut&langs_count=8&card_width=200" style="width: auto; height: 200;"/>
-        </a>
-        </td>
          <td style="padding: 10px;">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=2vhoc&theme=midnight-purple&hide_border=true&border_radius=10&background=0d1117&ring=7A28F7&fire=FF00FF&currStreakLabel=7A28F7" style="width: auto; height: 100p;" />
         </td>
@@ -193,7 +188,11 @@ Me.getBody()
         </td>
         <td style="padding: 10px;">
           <a href="#" title="2vhoc">
-            <img src="https://github-contributor-stats.vercel.app/api?username=2vhoc&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 270; height: auto;" />
+             <td style="padding: 10px;">
+          <a href="#">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2vhoc&layout=donut&langs_count=8&card_width=200" style="width: auto; height: 200;"/>
+        </a>
+        </td>
           </a>
         </td>
         <td style="padding: 10px;">
