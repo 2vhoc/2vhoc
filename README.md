@@ -99,7 +99,6 @@ Me.getBody()
         <a href="https://github.com/2vhoc/football-player-tracking" title="football-player-tracking">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=football-player-tracking&theme=rose&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
         </td>
-        
       </tr>
     </table>
   </div>
@@ -111,8 +110,7 @@ Me.getBody()
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/research.svg" width="100%" height="100%">
 <img src="https://raw.githubusercontent.com/2vhoc/2vhoc/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 
-<a href="https://github.com/2vhoc/football-player-tracking" title="football-player-tracking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=football-player-tracking&theme=rose&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+
 
 
 <!-- <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,tensorflow,docker,git,fastapi" /><br> -->
