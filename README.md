@@ -69,12 +69,12 @@ Me.getBody()
       <tr>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/roll-call-students" title="Roll call students">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=jolly&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=jolly&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
       </a>
         </td>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/detection-face-opencv" title="Detection Face">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=cobalt2&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=cobalt2&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
         </td>
       </tr>
     </table>
@@ -82,18 +82,18 @@ Me.getBody()
       <tr>
       <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=aura&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=aura&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
         </td>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/tensorflow-recognition-birds" title="Recognition">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=gruvbox&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=gruvbox&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
       </tr>
     </table>
     <table style="margin: auto;">
       <tr>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/smoke-detection" title="smoke-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=smoke-detection&theme=monokai&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=smoke-detection&theme=monokai&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
         </td>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/football-player-tracking" title="football-player-tracking">
