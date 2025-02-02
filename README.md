@@ -69,7 +69,7 @@ Me.getBody()
       <tr>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/roll-call-students" title="Roll call students">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=jolly&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=roll-call-students&theme=ocean_dark&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
       </a>
         </td>
         <td style="padding: 10px;">
