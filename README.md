@@ -97,7 +97,7 @@ Me.getBody()
         </td>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/football-player-tracking" title="football-player-tracking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=fotball-player-tracking&theme=catppuccin_latte&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=football-player-tracking&theme=catppuccin_latte&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
         </td>
       </tr>
     </table>
