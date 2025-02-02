@@ -93,12 +93,12 @@ Me.getBody()
       <tr>
         <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/smoke-detection" title="smoke-detection">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=smoke-detection&theme=monokai&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
-      </tr>
-          <tr>
-        <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=smoke-detection&theme=monokai&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+        </td>
+          <td style="padding: 10px;">
         <a href="https://github.com/2vhoc/football-player-tracking" title="football-player-tracking">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=football-player-tracking&theme=rose&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+        </td>
       </tr>
     </table>
   </div>
