@@ -192,8 +192,6 @@ Me.getBody()
           <img src="https://media.tenor.com/pZ7D-VgpMdIAAAAM/anime-fofo.gif" style="width: 150px; height: auto;" />
         </td>
         <td style="padding: 10px;">
-          <a href="#" title="2vhoc">
-             <td style="padding: 10px;">
           <a href="#">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2vhoc&layout=donut&langs_count=8&card_width=200" style="width: auto; height: 200;"/>
         </a>
