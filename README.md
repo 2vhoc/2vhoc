@@ -101,6 +101,19 @@ Me.getBody()
         </td>
       </tr>
     </table>
+    <table style="margin: auto;">
+      <tr>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/diabetes-prediction-web" title="diabetes-prediction-web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=diabetes-prediction-web&theme=solarized-light&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
+        </td>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/make-colour" title="make-colour">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=make-colour&theme=ambient_gradient&border_color=61dafb&border_radius=10" style="width: 100p; height: 100p;"/>
+        </td>
+      </tr>
+    </table>
+          
   </div>
 
 </div>
